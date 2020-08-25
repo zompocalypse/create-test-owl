@@ -5,8 +5,8 @@ import './Stage.css';
 
 export default function Stage(props) {
   return (
-    <section class="stage">
-        <div class="active-view">
+    <section className="stage">
+        <div className="active-view">
           {store.participants
           .filter(participant => participant.onStage === true)
           .map(participant =>
