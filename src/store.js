@@ -92,7 +92,10 @@ const chatEvents = [
   }
 ];
 
+const chatParticpantView = 'chat';
+
 export default {
   participants,
-  chatEvents
+  chatEvents,
+  chatParticpantView
 };
