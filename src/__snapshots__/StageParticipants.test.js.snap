@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StageParticipant component renders UI as expected 1`] = `
+<div
+  class="onStageParticipants"
+>
+  <img
+    alt="Koren Templeton"
+    src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+  />
+  <div
+    class="stageDetails"
+  >
+    <span
+      class="contact-on-stage-details-text"
+    >
+      Koren Templeton
+    </span>
+    <div
+      class="mute"
+    >
+      mute
+    </div>
+    <div
+      class="search"
+    >
+      search
+    </div>
+  </div>
+</div>
+`;

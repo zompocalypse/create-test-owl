@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Participant component renders UI as expected 1`] = `
+exports[`ParticipantList component renders UI as expected 1`] = `
 <div
   className="participants"
 >

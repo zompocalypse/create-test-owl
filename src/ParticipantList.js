@@ -7,7 +7,7 @@ export default function ParticipantList(props) {
   return (
     <div className="participants">
       {store.participants
-      .sort(function(a, b) {
+      .sort((a, b) => {
         if(a.inSession < b.inSession) {
           return 1;
         }
