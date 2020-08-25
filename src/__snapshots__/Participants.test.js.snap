@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participant component renders UI as expected 1`] = `
+<div
+  className="participants"
+>
+  <div
+    className="session-participant"
+  >
+    <img
+      alt="Koren Templeton"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="participant-details"
+    >
+      <h6>
+        Koren Templeton
+      </h6>
+      <div
+        className="status"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders UI as expected 1`] = `
+<div
+  className="participants"
+>
+  <div
+    className="session-participant"
+  >
+    <img
+      alt="Koren Templeton"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="participant-details"
+    >
+      <h6>
+        Koren Templeton
+      </h6>
+      <div
+        className="status"
+      />
+    </div>
+  </div>
+</div>
+`;
